@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: License Checker
-      uses: kt3k/license_checker@v1.0.1
+      uses: ddevassy/license_checker
